@@ -1,4 +1,4 @@
-                                                  Tower of Medness (STC)
+                                                  Tower of Madness (STC)
 Story: 
 SoonTm
 
