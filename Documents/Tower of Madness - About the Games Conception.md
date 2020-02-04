@@ -89,11 +89,7 @@ There will be 3 phase in the development.
 
 ## Where can I contact you?
 
-You can contact me throw my 
-
-[discord]: https://discord.gg/ff5cVjb
-
- or sending mail to: dev@remgaxdev.hu
+You can contact me throw my discord or sending mail to: dev@remgaxdev.hu
 
 ## Can you tell us a little bit about yourself?
 
