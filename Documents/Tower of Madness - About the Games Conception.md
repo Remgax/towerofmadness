@@ -54,7 +54,7 @@ Always changing world- What would happen if you kill a king?
 
 Job System - You still come from somewhere right? (Traders, Guards, Thieves)
 
-Soul System - Get the ancient Angel's or (Devil's) power! Will you soul be cleansed or be corrupted with madness? 
+Soul System - Get the ancient Angel's or (Devil's) power! Will your soul be cleansed or be corrupted with madness? 
 
 Karma System - Would you like to be good or bad? It's all up to you! 
 
@@ -62,7 +62,7 @@ The Grand Tournement of Perosz - Free for All Arena with a twist!
 
 ## 2D or 3D? Which? And why?
 
-I choose 3D because It's more close to those games that I mentioned and got the inspiration from. The game will be focusing on top down view with 3D elements. A lot of my assets will be produced in PhotoShop, and Maya.
+I've chosen 3D because It's more close to those games that I mentioned and got the inspiration from. The game will be focusing on top down view with 3D elements. A lot of my assets will be produced in PhotoShop, and Maya.
 
 ## What engine do you use for the game?
 
@@ -70,11 +70,11 @@ I use Unity Engine for the games development. This is the engine I want to learn
 
 ## When will it release?
 
-To be honest, The main goal would be around early 2021. But it depends of the learning process and who much time can I put in to the project. This will be also my fine exam project for my university. 
+To be honest, The main goal would be around early 2021. But it depends on the learning process and who much time can I put in to the project. This will be also my final exam project for my university. 
 
 ## Will it be free to play?
 
-I this world where triple A titles flying left and right? I mean...... OF COURSE IT WILL BE FREE TO PLAY! :dragon_face:
+In this world where triple A titles flying left and right? I mean...... OF COURSE IT WILL BE FREE TO PLAY! :dragon_face:
 
 ## Is it open source?
 
@@ -93,16 +93,15 @@ You can contact me throw my discord or sending mail to: info@remgaxdev.hu
 
 ## Can you tell us a little bit about yourself?
 
-Well, my name is Milán Kormány and currently I'm a full time Software developer and university student. I play video games since I was 8-10. Started with a Sega Mega Drive :video_game:, but when I got my first pc with Windows 95 on it, I could not stop playing. My all the favourite video game... Yes you guessed it... Doom! :gun: :gun::gun: :gun: All jokes aside, (regardless I still love Doom) World of Warcraft is my all time favourite.  (Even with it's ups and downs)
+Well, my name is Milán Kormány and currently I'm a full time Software developer and university student. I've been playing video games since I was 8-10. Started with Sega Mega Drive :video_game:, but when I got my first pc with Windows 95 on it, I could not stop playing. My all time favourite video game... Yes you guessed it... Doom! :gun: :gun::gun: :gun: All jokes aside, (regardless I still love Doom) World of Warcraft is my all time favourite.  (Even with it's ups and downs)
 
-I studded and still studying Software development since I was 14 years old, and still want to improve my developer skills. 
+I studied and still studying Software development since I was 14 years old, and still want to improve my developer skills. 
 
-In my free times, I play various  video games, and playing a lot of table top games. I recently started streaming on Twitct.tv, my gameplay and also the development of this wonderful game.
+In my free times, I play various  video games, and playing a lot of table top games. Besides these, I recently started streaming my gameplays and also the develeopment of this wounderful game on TwitchTv.
+## Can I contribute in to the project?
 
-## Who can I contribute in to the project?
+Yes you can! When it's starts it's open source phase, all your contriubiton will be reviewd and will be added to the project. Also if you watch me on twitch, you can earn a currency called Pixel Coins (not final name). Earning enough Pixel Coins (not final name) you can buy yourself really epic things once Tower of Madness release. 
 
-Yes! When it's starts it open source phase, all your code a contribution will be accepted. Also if you watch me on twitch, you can earn a currency called Pixel Coins (not final name). Earning enough Pixel Coins (not final name) you can buy yourself really epic things once Tower of Madness release. 
-
-Just an example, you earn 10k Pixel Coin (not final name). Oh that's a lot of hour watching me! How can I pay back your time watching me? Yeah that's right you can design an item from the EPIC :gem: tier that will be included in the game! That was not enough? How about 40k? Your brand new NPC! You can design it from the ground up, give him personality , items and it will interact with the players. Still not enough? Okay... let me think.... :thinking: :thinking: :thinking: :thinking:  Okay, how about monsters? or Even .... OHHH YEAH!! BOSSES!! You know the Tower is Huge with endless rooms. What if one of those rooms contains your wildest imagination? 
+Just an example, you earn up to 10k Pixel Coin (not final name). Oh that's a lot of hour watching me! How can I pay back your time watching me? Yeah that's right you can design an item from the EPIC :gem: tier that will be included in the game! That was not enough? How about 40k? Your brand new NPC! You can design it from the ground up, give him personality , items and it will interact with the players. Still not enough? Okay... let me think.... :thinking: :thinking: :thinking: :thinking:  Okay, how about monsters? or Even .... OHHH YEAH!! BOSSES!! You know the Tower is Huge with endless rooms. What if one of those rooms contains your wildest imagination? 
 
 All kinds of stuff comes with this currency all you have to do is watch the stream and be part of the project! :heart:
