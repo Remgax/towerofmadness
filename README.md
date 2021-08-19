@@ -1,5 +1,5 @@
                                                   Tower of Madness (STC)
-                                   (Currently this project is onHold and may not discontinue)
+                                   (Currently this project is on Hold and may be discontinued)
 Story: 
 SoonTm
 
